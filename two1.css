@@ -1,0 +1,36 @@
+*
+{
+    background-color:lavender;
+}
+button:hover
+{
+    color:brown;
+    background-color: blanchedalmond;
+}
+
+#en::shadow,input.io::shadow
+{}
+.
+[for]
+{
+    font-size: 0.7cm;
+}
+*{
+    margin-top: 10px;
+    margin-left: 15px;
+}
+
+.ab
+{
+    color:rgb(28, 126, 70);
+}
+
+.eb
+{
+    font-size: .5cm;
+    color:olive;
+}
+
+input{
+    color:darkorange;
+}
