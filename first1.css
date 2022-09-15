@@ -1,0 +1,63 @@
+*
+{
+    background-color:azure;
+}
+h1
+{
+    color: rgb(20, 100, 100);
+    font-style: italic;
+    font-size: 1cm;
+    font-family: 'Times New Roman';
+}
+h4{
+    text-decoration: underline;
+    font-size: 0.7cm;
+    color: darkgray;
+}
+h5
+{
+    font-size: medium;
+}
+h2
+{
+    font-size: .9cm;
+    font-style: oblique;
+    text-decoration: underline;
+    color: brown;
+}
+#ref
+{
+    font-style: oblique;
+    font-size: .5cm;
+    color: black;
+}
+img
+{
+    max-width: 70%;
+    height: 5cm;
+}
+th
+{
+    font-size: .7cm;
+    font-family:'Times New Roman';
+    font-style: oblique;
+    background-color: chocolate;
+}
+td
+{
+    font-style: italic;
+    color: rgb(48, 0, 18);
+    background-color: bisque;
+}
+th.im
+{
+    width:135px;
+}
+th.en, td.en
+{
+    width: 105px;
+}
+h5
+{
+    color: red;
+}
